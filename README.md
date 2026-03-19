@@ -2,7 +2,7 @@
 
 Generate GitHub-flavored Markdown tables from an interactive grid with configurable column alignment and live preview, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/text-tools/markdown-table-generator
+**Live Demo:** https://file-converter-free.com/en/text-tools/markdown-table-generator-online
 
 ## How It Works
 
